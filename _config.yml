@@ -14,11 +14,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Lurker's software journey
-email: randomlurker@fastmail.com
+email: randomlurker-at-fastmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Anything and everything about software development, starting with clojure.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://randomlurker.eu" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  randomlurker
 
 # Build settings
